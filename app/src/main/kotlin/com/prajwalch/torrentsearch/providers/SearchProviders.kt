@@ -8,7 +8,7 @@ object SearchProviders {
      * Make sure they're sorted.
      */
     private val all = setOf(
-        1337x(),
+        ThirteenThreeSevenX(),
         AnimeTosho(),
         Eztv(),
         Knaben(),
