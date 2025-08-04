@@ -16,8 +16,8 @@ class ThirteenThreeSevenX : SearchProvider {
         id = "1337x",
         name = "1337x",
         url = "https://1337x.to",
-        specializedCategory = Category.Any, // adjust if you're scoping to a specific category
-        safetyStatus = SearchProviderSafetyStatus.Untrusted, // depending on your policy you may mark differently
+        specializedCategory = Category.All, // adjust if you're scoping to a specific category
+        safetyStatus = SearchProviderSafetyStatus.Safe,
         enabled = true,
     )
 
